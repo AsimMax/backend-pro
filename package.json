@@ -1,0 +1,17 @@
+{
+  "name": "projectcv",
+  "version": "1.0.0",
+  "description": "a cv project",
+  "keywords": [
+    "javascript",
+    "backend",
+    "max"
+  ],
+  "license": "ISC",
+  "author": "Mohd Asim",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
